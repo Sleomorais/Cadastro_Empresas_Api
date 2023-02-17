@@ -24,3 +24,6 @@ pip install -r requirements.txt
 
 -Iniciar o projeto
 python manage.py runserver
+
+
+Depois disso é só aproveitar
